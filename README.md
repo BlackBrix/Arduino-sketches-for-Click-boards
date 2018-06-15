@@ -1,5 +1,7 @@
-# Arduino-libraries-for-Click-boards-
-38 Arduino libraries for Click boards™ provided by Lextronic
+# 38 Arduino libraries for Click boards™ provided by Lextronic
+
+documentation is here in french:
+https://docs.google.com/viewer?url=https://github.com/BlackBrix/Arduino-libraries-for-Click-boards/raw/master/docs/Click_App_TOME1.pdf
 
 
 Conditions d’utilisations et limite de responsabilité
