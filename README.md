@@ -13,7 +13,7 @@ The application notes in this document have been designed with the utmost attent
 Connection diagrams  
 
 Some parts of the connection diagrams of this documentation (the Arduino board and the connection wires) were made using the Fritzing software.  
-https://fritzing.org  
+http://fritzing.org  
 These schemas are distributed under CC Attribution-ShareALike license.  
 The representation of the click board modules has been redesigned over these schemas.  
 
@@ -40,7 +40,7 @@ Les notes d'applications de ce document ont été conçues avec la plus grande a
 Schémas de raccordement  
 
 Certaines parties de schémas de raccordement de cette documentation (la platine arduino et les fils de connexions) ont été réalisés à l'aide du logiciel Fritzing.  
-https://fritzing.org  
+http://fritzing.org  
 Ces schémas sont distribués sous licence CC Attribution-ShareALike.  
 La représentation des modules click board a été redessiné par dessus ces schémas.  
 
