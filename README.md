@@ -3,7 +3,34 @@
 documentation is here in french:  
 https://docs.google.com/viewer?url=https://github.com/BlackBrix/Arduino-libraries-for-Click-boards/raw/master/docs/Click_App_TOME1.pdf  
     
-      
+----  
+
+Terms of use and limitation of liability  
+  
+The application notes in this document have been designed with the utmost attention. Every effort has been made to avoid anomalies. However, we can not guarantee that these application notes are 100% free of errors. The information in this documentation is indicative. It is important to always consider the source programs in this document as beta programs. Lextronic shall not be liable for any damages whatsoever (without limitation, damages for loss of commercial profit, interruption of commercial exploitation, loss of information and data of a commercial nature or any other financial loss) arising from the use or inability to use the application notes of this document, even if Lextronic has been informed of the possibility of such damages. These application notes are exclusively designed for educational purposes (primarily for learning programming). We can not give any guarantee of their functioning for a use within your own applications, nor for a use of these within professional applications. In general, these application notes are not designed, nor intended, nor authorized to experiment, develop or be integrated into applications in which a failure of these could create a dangerous situation that could lead to financial losses, material damage, bodily injury or the death of persons or animals. If you use these application notes voluntarily or unintentionally for such unauthorized applications, you agree to exempt Lextronic from all liability and compensation claims.  
+
+
+Connection diagrams  
+
+Some parts of the connection diagrams of this documentation (the Arduino board and the connection wires) were made using the Fritzing software.  
+https://fritzing.org  
+These schemas are distributed under CC Attribution-ShareALike license.  
+The representation of the click board modules has been redesigned over these schemas.  
+
+
+Additional libraries  
+
+Some source code uses external libraries (which you will need to download). A search on the Internet will allow you to easily find these libraries. Some of these libraries exist in different versions. If a program does not work, consider re-testing it with a different version of the library. These libraries are distributed according to various types of licenses. Thank you for taking note of these licenses before using them.  
+
+
+Copyright and trade names  
+
+All trademarks, processes, references and trade names of the products mentioned in this documentation belong to their respective owners and manufacturers.  
+
+The source codes and diagrams in this document can be downloaded here:  
+https://www.lextronic.fr/~lextronic_doc/Click_APP.zip  
+
+----  
       
 Conditions d’utilisations et limite de responsabilité  
 
